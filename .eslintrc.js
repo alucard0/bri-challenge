@@ -8,6 +8,9 @@ module.exports = {
       jsx: true,
     },
     requireConfigFile: false,
+    babelOptions: {
+      presets: ['@babel/preset-react'],
+    },
   },
   rules: {
     semi: 'off',
