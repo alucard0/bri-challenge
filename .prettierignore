@@ -1,0 +1,7 @@
+.next
+*.d.ts
+*.config.js
+node_modules
+jest.setup.ts
+coverage
+
